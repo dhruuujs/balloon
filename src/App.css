@@ -12,6 +12,18 @@ body{
   background:#f7f7f7;
 }
 
+
+#searchCityBar{
+padding:15px;
+background: #f4f4f4;
+}
+
+#searchBtn{
+padding:4px;
+}
+
 #weatherCard{
   background:linear-gradient(100deg,#86C6EE,#0065A3);
 }
+
+
