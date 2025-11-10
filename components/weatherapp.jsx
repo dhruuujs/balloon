@@ -17,7 +17,7 @@ function WeatherApp(){
     const inputRef= useRef();
 
     const BASE_URL = 'https://api.openweathermap.org/data/2.5/forecast';
-    const api_key = "0c3f86866602c021b5df2e8ada1c1b12"
+    const api_key =import.meta.env.WEATHER_API;
 
 
 const appIcons={
